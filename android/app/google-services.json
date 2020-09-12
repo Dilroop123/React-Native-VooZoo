@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548411306296",
+    "firebase_url": "https://voozoo-9998e.firebaseio.com",
+    "project_id": "voozoo-9998e",
+    "storage_bucket": "voozoo-9998e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548411306296:android:7550a182393bda965ed1cd",
+        "android_client_info": {
+          "package_name": "com.voozoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548411306296-fvdm1p90505o45ro1c720kkcph0625d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XpVtoBqW8FxeldodFmEpNFC3jQOYmVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548411306296-fvdm1p90505o45ro1c720kkcph0625d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
